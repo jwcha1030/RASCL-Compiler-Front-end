@@ -1,0 +1,16 @@
+int a;
+int b;
+int bignum;
+{
+if(!a<5){
+    return 0;
+    };
+
+while((a*2+b)!=(a+2)){
+ a=a+1;
+ };
+
+if((a>b)!=(b==a)){
+    b=a+b;
+    }
+}

@@ -1,0 +1,10 @@
+hello reaDme read7 read
+/* this is a ult
+commaent
+*/
+davidi& 
+_myname i.12 hello_david
+myname[is]david
+hi8 function read float 12.15e01
+9print8 While ReAd 11245 12*15+1
+read123 else_ 12else
