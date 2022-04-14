@@ -1,6 +1,6 @@
 # Really a Small C Language (RaSCL) Compiler
-I am currently working on building a small compiler that of which grammar resembles C language.
-Source is written in Python 3.9.x.
+I am currently working on building a small compiler which resembles the grammar/syntax of C language.
+Source code is written in Python 3.9.x.
 
 ## Contents
 
